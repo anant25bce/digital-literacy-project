@@ -2,10 +2,10 @@
 **Student Digital Ambassador Portfolio**  
 Anant Dixit | Reg No: 25BCE10980 | CSE core | First Year B.Tech | VIT Bhopal University
 
-📋 Project Overview
+Project Overview
 Completed all 5 modules as Student Digital Ambassador. Built infographic, professional profiles, collaboration tools, etiquette guide, and cybercrime resources.
 
-📁 Repository Structure
+Repository Structure
 digital-literacy-project/
 ├── README.md 
 ├── report/ProjectReport.pdf 
@@ -16,7 +16,7 @@ digital-literacy-project/
 └── task-5-cybercrime/ 
 
 
-🚀 Task Highlights & Links
+Task Highlights & Links
 
 Task 1: Infographic
 **Tool:** Canva  
@@ -41,7 +41,7 @@ Task 5: Cybercrime Awareness
 **Prevention:** Stay Safe checklist with cybercrime.gov.in + 1930 helpline  
 **[Files → task-5-cybercrime/]**
 
-## 📄 Full Report
+##  Full Report
 [Download ProjectReport.pdf → report/] (1,200+ words covering all reflections)
 
 ## 👨‍💼 About Me
